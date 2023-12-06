@@ -1,8 +1,7 @@
 # cmd-executor
 
 ```markdown
-requirement
-pip install pyinstaller
+pip install -r requirement.txt
 
 make executable file
 pyinstaller --onefile main.py  
